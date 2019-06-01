@@ -1,6 +1,4 @@
-//
-// Created by Елена Любавина on 2019-05-30.
-//
+
 #include "circular_suffix_array.h"
 
 
